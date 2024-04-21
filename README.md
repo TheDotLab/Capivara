@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="HwBot.png" alt="Glyder logo" width="150px" />
+  <img src="Capivara.png" alt="Capivara logo" width="150px" />
   
-  # HwBOT
+  # Capivara
 
   Um bot para automatizar as coisas para [Hacker Wars](hackerwars.io).
 
