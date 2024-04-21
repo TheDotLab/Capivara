@@ -10,6 +10,9 @@
   ---
 </div>
 
+> [!WARNING]
+> Use por sua conta e risco, o bot viola o ToS e há possibilidade de banimento da conta.
+
 ## Visão geral
 
 Funcionalidades:
